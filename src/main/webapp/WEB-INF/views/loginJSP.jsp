@@ -15,6 +15,8 @@
 %>
 <p>My first hustling JSP!!!${name}</p>
 <div>La date d'aujourd'hui est <%=date %></div>
+<form action="/PremiereServlet">
 
+</form>
 </body>
 </html>
